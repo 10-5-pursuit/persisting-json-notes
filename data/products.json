@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "05848fa1-d00f-427d-bb73-0e153a7324af",
+    "name": "Fantastic Sausages",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "brand": "Jacobs - Weissnat",
+    "price": "$179.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Cotton",
+      "color": "black"
+    }
+  },
+  {
+    "_id": "66dff441-d126-40df-a124-918b92996b37",
+    "name": "Intelligent Salad",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "brand": "Corkery - Hayes",
+    "price": "$79.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "material": "Rubber",
+      "color": "silver"
+    }
+  },
+  {
+    "_id": "8eed14c6-7de2-4a31-825a-45758fa242e3",
+    "name": "Ergonomic Sausages",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "brand": "Goldner - Brown",
+    "price": "$154.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Rubber",
+      "color": "salmon"
+    }
+  },
+  {
+    "_id": "4364c893-a05c-4ccb-944f-725cedd64721",
+    "name": "Awesome Keyboard",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "brand": "Toy Group",
+    "price": "$36.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Plastic",
+      "color": "azure"
+    }
+  },
+  {
+    "_id": "025ebcfe-3f2d-4e51-a7f8-7a386dfce216",
+    "name": "Generic Gloves",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "brand": "Nolan and Sons",
+    "price": "$197.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Cotton",
+      "color": "tan"
+    }
+  },
+  {
+    "_id": "4dc674d7-6f31-4e2b-b3f7-07b3f414a5d4",
+    "name": "Oriental Shirt",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "brand": "Glover - Barton",
+    "price": "$70.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "material": "Wooden",
+      "color": "mint green"
+    }
+  },
+  {
+    "_id": "d029fe34-057d-4bbc-b634-e80a741b1c47",
+    "name": "Rustic Mouse",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "brand": "Balistreri - Windler",
+    "price": "$112.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "material": "Frozen",
+      "color": "blue"
+    }
+  }
+]
